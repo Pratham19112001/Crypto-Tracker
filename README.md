@@ -1,7 +1,7 @@
 ﻿# Cryto-Tracker
  This project is a cryptocurrency tracking application that helps users monitor the latest prices and trends of various cryptocurrencies.
 ## Features 
-1.) Real-time cryptocurrency price updates.
+1.) Real-time cryptocurrency price updates.<br/>
 2.) Historical price charts.
 3.) Market capitalization, volume, and other key metrics.
 4.) Watchlist to track favorite cryptocurrencies.
