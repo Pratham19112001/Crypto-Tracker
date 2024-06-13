@@ -1,11 +1,11 @@
 ﻿# Cryto-Tracker
  This project is a cryptocurrency tracking application that helps users monitor the latest prices and trends of various cryptocurrencies.
 ## Features 
-Real-time cryptocurrency price updates.
-Historical price charts.
-Market capitalization, volume, and other key metrics.
-Watchlist to track favorite cryptocurrencies.
-Responsive design for mobile and desktop.
+1.) Real-time cryptocurrency price updates.
+2.) Historical price charts.
+3.) Market capitalization, volume, and other key metrics.
+4.) Watchlist to track favorite cryptocurrencies.
+5.) Responsive design for mobile and desktop.
 
 ## Getting Started with Create React App
 
