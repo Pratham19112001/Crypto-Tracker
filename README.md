@@ -2,10 +2,10 @@
  This project is a cryptocurrency tracking application that helps users monitor the latest prices and trends of various cryptocurrencies.
 ## Features 
 1.) Real-time cryptocurrency price updates.<br/>
-2.) Historical price charts.
-3.) Market capitalization, volume, and other key metrics.
-4.) Watchlist to track favorite cryptocurrencies.
-5.) Responsive design for mobile and desktop.
+2.) Historical price charts.<br/>
+3.) Market capitalization, volume, and other key metrics.<br/>
+4.) Watchlist to track favorite cryptocurrencies.<br/>
+5.) Responsive design for mobile and desktop.<br/>
 
 ## Getting Started with Create React App
 
