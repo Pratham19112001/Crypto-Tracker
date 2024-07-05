@@ -15,10 +15,10 @@ This project was set up with [Create React App](https://github.com/facebook/crea
 
 Within the project directory, you can execute the following commands:
 
-### `npm start`
+### `npm run dev`
 
 Starts the app in development mode.
-Navigate to[http://localhost:3000](http://localhost:3000) to view it in your browser.
+Navigate to [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will automatically reload when you make modifications.
 You might also notice any lint errors displayed in the console.
